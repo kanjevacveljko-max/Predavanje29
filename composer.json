@@ -1,0 +1,15 @@
+{
+    "name": "pc/predavanje28",
+    "autoload": {
+        "psr-4": {
+            "PHP28\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Veljko",
+            "email": "kanjevacveljko@gmail.com"
+        }
+    ],
+    "require": {}
+}
